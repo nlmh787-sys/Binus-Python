@@ -1,0 +1,4 @@
+Enter Value X
+Enter Value y
+result = x*y
+print(result)

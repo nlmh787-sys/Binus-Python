@@ -1,0 +1,5 @@
+Enter value
+if value greater than 70
+say "Pass"
+if value less tahn70
+say Fail

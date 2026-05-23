@@ -1,0 +1,39 @@
+Print : 
+"Menu
+1.Celsius to Fahrenheit
+2.Celsius to Kelvin
+3.Fahrenheit to Celsius
+4.Fahrenheit to Kelvin
+5.Kelvin to Celsius
+6.Kelvin to Fahrenheit"
+
+If 1: 
+Input = Celcius
+Fahrenheit = 9*(Celcius+32)/5
+Print Fahrenheit
+
+If 2: 
+Input Celcius
+Kelvin = Celcius+273
+Print Kelvin
+
+If 3: 
+Input = Fahrenheit
+Celcius = 5*(Fahrenheit-32)/9
+Print Celcius
+
+If 4: 
+Input = Fahrenheit
+Kelvin = (5*(Fahrenheit-32)/9)+273
+Print Kelvin
+
+If 5: 
+Input = Kelvin
+Celcius = Kelvin-273
+Print Celcius
+
+If 6: 
+Input = Kelvin
+Fahrenheit = (9*(Kelvin-273)/5)+32
+Print Fahrenheit
+
